@@ -30,6 +30,7 @@ fn archive_log(mut log: String, code: u32) -> String{
 }
 
 fn main() {
+    //4. main:
     //allocate an owned string on the heap (raw_log) and an integer on the stack
     let raw_log = String::from("[WARN] Disk space reaching 90%");
     let status_code: u32 = 404;
