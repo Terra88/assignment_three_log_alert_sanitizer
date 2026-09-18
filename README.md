@@ -1,4 +1,4 @@
-**Has the required functions**
-**Use of web/AI**
--Checking information about ownership, borrow and referencing.
--Code commented.
+**Has the required functions**<br>
+**Use of web/AI**<br>
+-Checking information about ownership, borrow and referencing.<br>
+-Code commented.<br>
